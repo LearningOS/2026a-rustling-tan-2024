@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-tan-2024",
-  "commit": "794a44d4af55ab07f6039156135f487fd273a996",
-  "score": 33,
+  "commit": "d6a72953d755e9ac7b22402e8fbb16fbfc2a666a",
+  "score": 36,
   "totalScore": 110,
   "exercises": [
     {
@@ -240,23 +240,23 @@
     {
       "name": "enums1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "enums2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "enums3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "strings1",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "tan-2024",
-  "runId": "36324137011",
-  "runAttempt": "2",
+  "runId": "36325109297",
+  "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
